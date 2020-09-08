@@ -1,2 +1,3 @@
 # Hello World!
-My Hello World repository. 
+This is Qi Zhao,
+And this is My Hello World repository. 
